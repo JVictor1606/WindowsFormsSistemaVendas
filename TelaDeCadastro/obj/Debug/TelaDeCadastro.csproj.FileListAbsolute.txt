@@ -1,0 +1,15 @@
+C:\Aprendendo c#\TelaDeCadastro\TelaDeCadastro\bin\Debug\TelaDeCadastro.exe.config
+C:\Aprendendo c#\TelaDeCadastro\TelaDeCadastro\bin\Debug\TelaDeCadastro.exe
+C:\Aprendendo c#\TelaDeCadastro\TelaDeCadastro\bin\Debug\TelaDeCadastro.pdb
+C:\Aprendendo c#\TelaDeCadastro\TelaDeCadastro\obj\Debug\TelaDeCadastro.csproj.AssemblyReference.cache
+C:\Aprendendo c#\TelaDeCadastro\TelaDeCadastro\obj\Debug\TelaDeCadastro.csproj.SuggestedBindingRedirects.cache
+C:\Aprendendo c#\TelaDeCadastro\TelaDeCadastro\obj\Debug\TelaDeCadastro.Properties.Resources.resources
+C:\Aprendendo c#\TelaDeCadastro\TelaDeCadastro\obj\Debug\TelaDeCadastro.csproj.GenerateResource.cache
+C:\Aprendendo c#\TelaDeCadastro\TelaDeCadastro\obj\Debug\TelaDeCadastro.csproj.CoreCompileInputs.cache
+C:\Aprendendo c#\TelaDeCadastro\TelaDeCadastro\obj\Debug\TelaDeCadastro.exe
+C:\Aprendendo c#\TelaDeCadastro\TelaDeCadastro\obj\Debug\TelaDeCadastro.pdb
+C:\Aprendendo c#\TelaDeCadastro\TelaDeCadastro\obj\Debug\TelaDeCadastro.Form1.resources
+C:\Aprendendo c#\TelaDeCadastro\TelaDeCadastro\obj\Debug\TelaDeCadastro.telas.ClienteTela.resources
+C:\Aprendendo c#\TelaDeCadastro\TelaDeCadastro\obj\Debug\TelaDeCadastro.telas.LoginTela.resources
+C:\Aprendendo c#\TelaDeCadastro\TelaDeCadastro\obj\Debug\TelaDeCadastro.telas.CadastroVendaTela.resources
+C:\Aprendendo c#\TelaDeCadastro\TelaDeCadastro\obj\Debug\TelaDeCadastro.telas.ClienteVenda.resources
